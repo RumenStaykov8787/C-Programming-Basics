@@ -1,0 +1,6 @@
+c:\users\rumen\documents\visual studio 2013\Projects\AdvancedTopics\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe.config
+c:\users\rumen\documents\visual studio 2013\Projects\AdvancedTopics\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
+c:\users\rumen\documents\visual studio 2013\Projects\AdvancedTopics\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
+c:\users\rumen\documents\visual studio 2013\Projects\AdvancedTopics\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.csprojResolveAssemblyReference.cache
+c:\users\rumen\documents\visual studio 2013\Projects\AdvancedTopics\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.exe
+c:\users\rumen\documents\visual studio 2013\Projects\AdvancedTopics\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.pdb
